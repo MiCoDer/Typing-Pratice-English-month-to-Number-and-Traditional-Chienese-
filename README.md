@@ -1,8 +1,8 @@
-#【NodeJS】 English Mounth Number
+#【NodeJS】 English month Number
 
-Fast Typing the right answer mounth in number(1 to 12)
+Fast Typing the right answer month in number(1 to 12)
 </br>
-【Pratice English mounth number and Traditional Chinese  100 times】
+【Pratice English month number and Traditional Chinese  100 times】
 </br>
 
 Jan　=　一月　=　1
