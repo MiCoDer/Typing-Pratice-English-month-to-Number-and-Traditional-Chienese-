@@ -1,6 +1,6 @@
 # NodeJS
 </br>
-【Pritice English Mounth translate to Traditional Chinese】 On Windows CMD > node this.js
+【Pratice English mounth translate to Traditional Chinese】
 </br>
 Jan = 一月
 </br>
